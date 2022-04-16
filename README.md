@@ -1,10 +1,10 @@
-# Week-4
+# Week-5
 My Daily Planner is a simple calendar application that allows the user to save events for each hour of the work day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 
 ## Task
 
-This application is the homework for Week 4, which covers Third-Party API's (such as jQuery, Bootstrap & Moment.js) and is a daily planner/calendar browser application that allows a user to save events for each hour of the day. It features dynamically updated HTML and CSS powered by jQuery
+This application is the homework for Week 5, which covers Third-Party API's (such as jQuery, Bootstrap & Moment.js) and is a daily planner/calendar browser application that allows a user to save events for each hour of the day. It features dynamically updated HTML and CSS powered by jQuery
 
 ## Deployed Application
 

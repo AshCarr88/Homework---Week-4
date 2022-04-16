@@ -1,5 +1,5 @@
 # Week-4
- Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+My Daily Planner is a simple calendar application that allows the user to save events for each hour of the work day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 
 ## Task
@@ -8,7 +8,7 @@ This application is the homework for Week 4, which covers Third-Party API's (suc
 
 ## Deployed Application
 
-[>> Click here to see the deployed Work Day Scheduler application <<]()
+[>> Click here to see the deployed Work Day Scheduler application <<](https://ashcarr88.github.io/Homework---Week-4/)
 
 ## Table of Contents on Homework5
 

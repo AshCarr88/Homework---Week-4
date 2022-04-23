@@ -10,7 +10,7 @@ This application is the homework for Week 5, which covers Third-Party API's (suc
 
 * [GitHub Repository](https://github.com/AshCarr88/Homework---Week-5.git)
 * [Deployed GitHub Page](https://ashcarr88.github.io/Homework---Week-5/)
-* [>> Click here to see the deployed Work Day Scheduler application <<]()
+* ![My Daily Planner](./assets/images/planner.jpg)
 
 
 ## Task

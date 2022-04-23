@@ -8,7 +8,7 @@ $("#currentDay").text(currentDay);
 // Defining variables
 var saveBtn = $(".saveBtn");
 
-// each time block is color-coded to indicate whether it is in the past, present, or future
+// Each time block is color-coded to indicate whether it is in the past, present, or future
 function timeBlockColor() {
     var hour = moment().hours();
     console.log(hour);

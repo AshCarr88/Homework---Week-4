@@ -4,20 +4,14 @@
 
 ## Task
 
-This application is the homework for Week 4, which covers Third-Party API's (such as jQuery, Bootstrap & Moment.js) and is a daily planner/calendar browser application that allows a user to save events for each hour of the day. It features dynamically updated HTML and CSS powered by jQuery
+This application is the homework for Week 5, which covers Third-Party API's (such as jQuery, Bootstrap & Moment.js) and is a daily planner/calendar browser application that allows a user to save events for each hour of the work day. It features dynamically updated HTML and CSS powered by jQuery
 
 ## Deployed Application
 
-[>> Click here to see the deployed Work Day Scheduler application <<]()
+* [GitHub Repository](https://github.com/AshCarr88/Homework---Week-5.git)
+* [Deployed GitHub Page](https://ashcarr88.github.io/Homework---Week-5/)
+* [>> Click here to see the deployed Work Day Scheduler application <<]()
 
-## Table of Contents on Homework5
-
-- [Task](#task)
-- [User Story](#user-story)
-- [Acceptance Criteria](#acceptance-criteria)
-- [Mock Up](#mock-up)
-- [Grading Requirements](#grading-requirements)
-- [Review](#review)
 
 ## Task
 

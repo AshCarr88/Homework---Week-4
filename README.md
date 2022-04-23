@@ -8,7 +8,7 @@ This application is the homework for Week 5, which covers Third-Party API's (suc
 
 ## Deployed Application
 
-[>> Click here to see the deployed Work Day Scheduler application <<](https://ashcarr88.github.io/Homework---Week-4/)
+[>> Click here to see the deployed Work Day Scheduler application <<](https://ashcarr88.github.io/Homework---Week-5/)
 
 ## Table of Contents on Homework5
 
